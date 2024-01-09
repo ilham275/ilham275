@@ -18,4 +18,3 @@ Talk to me about:
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=ilham275&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ilham275.ilham275)
